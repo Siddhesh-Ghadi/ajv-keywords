@@ -8,3 +8,4 @@ node_js:
   - "14"
 after_script:
   - coveralls < coverage/lcov.info
+
